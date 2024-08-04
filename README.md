@@ -1,5 +1,6 @@
 # Hi there!👋 I'm Shiva Reddy.
 ## About me: 
+![Alt text](/Users/shivareddy/Downloads?raw=true "Title")
 ### * I'm a data science enthusiast, recently graduated with Master of Science in Computer science.
 ### * While i'm passionate about becoming a data scientist, i do free lancing for intriguing projects/problem statements.
 ### * Checkout my work in the repositories!
