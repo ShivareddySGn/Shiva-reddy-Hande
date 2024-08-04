@@ -1,7 +1,6 @@
 # Hi there!👋 I'm Shiva Reddy.
 ## About me: 
 ### * I'm a data science enthusiast, recently graduated with Master of Science in Computer science.
-### * I'm constantly learning and upgrading my skills in the data verse by working on projects.
 ### * While i'm passionate about becoming a data scientist, i do free lancing for intriguing projects/problem statements.
 ### * Checkout my work in the repositories!
 ### * Feel free to reach out to me @shivareddynani@gmail.com or on socials provided in the profile.
