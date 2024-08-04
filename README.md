@@ -6,9 +6,7 @@
 ### * Feel free to reach out to me @shivareddynani@gmail.com or on socials provided in the profile.
 ##
 ## Projects: 
-### * Tableau_Project_Employee_Attrition_Data_Analytics 
-### * PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics
-### * A website to compare machine learning models
+### * check out some of my work and projects on my GitHub profile.
 ##
 ## Skills: 
 ### * Data Analysis 
